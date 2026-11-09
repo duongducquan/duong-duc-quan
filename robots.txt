@@ -1,0 +1,13 @@
+# robots.txt cho duong-duc-quan
+# https://duongducquan.github.io/duong-duc-quan/
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+Sitemap: https://duongducquan.github.io/duong-duc-quan/sitemap.xml
+Sitemap: https://duongducquan.github.io/sitemap.xml
