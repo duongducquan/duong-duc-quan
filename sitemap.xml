@@ -4,7 +4,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://duongducquan.github.io/duong-duc-quan/</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="vi" href="https://duongducquan.github.io/duong-duc-quan/"/>
@@ -12,22 +12,157 @@
     <image:image>
       <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/anh23-portrait.jpg</image:loc>
       <image:title>Dương Đức Quân – Chân dung Full Stack Developer TP.HCM</image:title>
-      <image:caption>Hình ảnh chân dung Dương Đức Quân (DuongDucQuan), lập trình viên Full Stack tại Thủ Đức, TP. Hồ Chí Minh</image:caption>
+      <image:caption>Dương Đức Quân (DuongDucQuan) – Chân dung lập trình viên Full Stack Web Developer chuyên phát triển ứng dụng web, hệ thống realtime và tối ưu SEO tại TP.HCM</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/anh26-selfie.jpg</image:loc>
-      <image:title>Dương Đức Quân – Hoạt động sinh viên IT và dự án công nghệ</image:title>
-      <image:caption>Dương Đức Quân cùng bạn bè và đồng nghiệp tại trường đại học / công ty công nghệ</image:caption>
+      <image:title>Dương Đức Quân – Selfie sinh viên IT Thủ Đức TP.HCM</image:title>
+      <image:caption>Ảnh selfie đời thường của Dương Đức Quân, sinh viên Công nghệ Thông tin tại Thủ Đức với phong cách trẻ trung, năng động</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/anh24-fullstack.jpg</image:loc>
       <image:title>Dương Đức Quân – Hồ sơ năng lực Full Stack Web Developer</image:title>
-      <image:caption>Banner giới thiệu năng lực lập trình web React, Node.js, PHP, MySQL của Dương Đức Quân (duongducquan)</image:caption>
+      <image:caption>Năng lực lập trình của Dương Đức Quân: frontend ReactJS, backend Node.js/PHP, cơ sở dữ liệu MySQL và tích hợp AI</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/anh1.jpg.jpg</image:loc>
+      <image:title>Dương Đức Quân – Lập trình viên công nghệ thông tin</image:title>
+      <image:caption>Dương Đức Quân (duongducquan) đam mê viết mã nguồn sạch, phát triển giải pháp website thương mại điện tử và dịch vụ công nghệ số</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/anh2.jpg</image:loc>
+      <image:title>Dương Đức Quân – Nghiên cứu dự án công nghệ MVC</image:title>
+      <image:caption>Dương Đức Quân nghiên cứu kiến trúc MVC, thiết kế cơ sở dữ liệu quan hệ và xây dựng giao diện người dùng responsive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/anh3.jpg</image:loc>
+      <image:title>Dương Đức Quân – Web Developer TP.HCM</image:title>
+      <image:caption>Dương Đức Quân gắn bó với môi trường công nghệ TP.HCM, định hướng kỹ sư phần mềm Full Stack giàu kinh nghiệm</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/anh4.jpg</image:loc>
+      <image:title>Dương Đức Quân – Học hỏi công nghệ mới AI GIS</image:title>
+      <image:caption>Dương Đức Quân (duongducquan) chủ động đón đầu AI Chatbot streaming, bản đồ GIS OpenStreetMap và CI/CD</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/anh5.jpg</image:loc>
+      <image:title>Dương Đức Quân – Sinh viên IT Thủ Đức</image:title>
+      <image:caption>Hành trình học tập của Dương Đức Quân tại Thủ Đức, xây dựng nền tảng vững chắc cho sự nghiệp công nghệ thông tin</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/anh6.jpg</image:loc>
+      <image:title>Dương Đức Quân – Chuyên môn ReactJS và Node.js</image:title>
+      <image:caption>Dương Đức Quân sử dụng React kết hợp backend Express.js tạo ra các sản phẩm web mượt mà</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/anh7.jpg</image:loc>
+      <image:title>Dương Đức Quân – Programmer sáng tạo Việt Nam</image:title>
+      <image:caption>Dương Đức Quân (duongducquan) theo đuổi tư duy phản biện, tối ưu cấu trúc dữ liệu và viết mã nguồn dễ bảo trì</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/anh8.jpg</image:loc>
+      <image:title>Dương Đức Quân – Coder nhiệt huyết TP.HCM</image:title>
+      <image:caption>Dương Đức Quân không ngừng giải quyết bài toán kỹ thuật từ RESTful API đến hệ thống đồng bộ realtime</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/anh9.jpg</image:loc>
+      <image:title>Dương Đức Quân – Giải pháp Realtime Socket.IO</image:title>
+      <image:caption>Dương Đức Quân triển khai ứng dụng thời gian thực Socket.IO: chat, thông báo tức thì, đồng bộ đa thiết bị</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/anh10.jpg</image:loc>
+      <image:title>Dương Đức Quân – Lập trình viên trẻ Việt Nam</image:title>
+      <image:caption>Dương Đức Quân (duongducquan) lập trình viên trẻ kiên trì rèn luyện, hướng đến sản phẩm công nghệ hữu ích</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/anh25-ngan.jpg</image:loc>
+      <image:title>Dương Đức Quân – Kỷ niệm học tập và làm việc</image:title>
+      <image:caption>Kỷ niệm trong hành trình học tập Công nghệ Thông tin của Dương Đức Quân, hoàn thiện kỹ năng Full Stack</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/avara.jpg.jpg</image:loc>
-      <image:title>Dương Đức Quân – Ảnh đại diện chính thức</image:title>
-      <image:caption>Avatar chính thức của Dương Đức Quân (duongducquan) trên các nền tảng mạng xã hội và website</image:caption>
+      <image:title>Dương Đức Quân – Avatar chính thức DuongDucQuan</image:title>
+      <image:caption>Ảnh đại diện chính thức của Dương Đức Quân trên GitHub, Facebook, LinkedIn, TikTok và website cá nhân</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/1794214182787_50335361023664679_3575292183984077832_7da0e86600586bc33acceb8eefa19479.jpg</image:loc>
+      <image:title>Dương Đức Quân – Trải nghiệm dã ngoại</image:title>
+      <image:caption>Dương Đức Quân yêu thích dã ngoại, tái tạo năng lượng sáng tạo bên cạnh giờ lập trình</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/1794214182825_50335361023664679_3575292183984077832_97ab549be3d5f196b28d9fc56bba560d.jpg</image:loc>
+      <image:title>Dương Đức Quân – Lập trình viên năng động TP.HCM</image:title>
+      <image:caption>Chân dung hiện đại của Dương Đức Quân (duongducquan) – người trẻ làm chủ công nghệ</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/1794214226783_50335361023664679_3575292183984077832_cdf503bf48e18cbfcafced92581ae9bd.jpg</image:loc>
+      <image:title>Dương Đức Quân – Chân dung sắc nét DuongDucQuan</image:title>
+      <image:caption>Dương Đức Quân (DuongDucQuan) – tự tin, chân thành và tinh thần trách nhiệm trong công việc</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/1794214226852_50335361023664679_3575292183984077832_c843732cce6c6f85e8e1d45078fa0da7.jpg</image:loc>
+      <image:title>Dương Đức Quân – Nghiên cứu hệ thống phần mềm</image:title>
+      <image:caption>Dương Đức Quân tìm hiểu kiến trúc phần mềm, tối ưu hiệu năng API và ứng dụng AI</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/1794214240552_50335361023664679_3575292183984077832_17103d67467907c956e1e55607369047.jpg</image:loc>
+      <image:title>Dương Đức Quân – Sinh viên công nghệ TP.HCM</image:title>
+      <image:caption>Dương Đức Quân (duongducquan) tinh thần vượt khó, học tập liên tục để trở thành lập trình viên xuất sắc</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/z7384682605918_83a60727b5cd329fd90db8fd4859cfa9.jpg</image:loc>
+      <image:title>Dương Đức Quân – Gặp gỡ bạn bè và đồng nghiệp</image:title>
+      <image:caption>Dương Đức Quân giao lưu cùng bạn bè IT, chia sẻ định hướng nghề nghiệp và tinh thần hợp tác</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/z7384682606203_9dde1a794d2808d761029ce8cb5a3468.jpg</image:loc>
+      <image:title>Dương Đức Quân – Hoạt động tập thể sinh viên</image:title>
+      <image:caption>Kỷ niệm hoạt động tập thể của Dương Đức Quân (duongducquan), gắn kết lớp công nghệ thông tin</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/z7384682613517_b5f728afc6add53f9995829d0e1208cf.jpg</image:loc>
+      <image:title>Dương Đức Quân – Sự kiện giao lưu công nghệ</image:title>
+      <image:caption>Dương Đức Quân tham gia trao đổi kỹ thuật, cập nhật xu hướng web hiện đại tại TP.HCM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/z7384682619566_f292add528c52fb7ed613890d3c85c83.jpg</image:loc>
+      <image:title>Dương Đức Quân – Đời thường mộc mạc</image:title>
+      <image:caption>Bức ảnh mộc mạc, gần gũi của Dương Đức Quân (duongducquan) – hòa đồng và chân thành</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/z7384682623197_f5991f3f9178e9a30ae4e42202065e7e.jpg</image:loc>
+      <image:title>Dương Đức Quân – Đam mê công nghệ kết nối</image:title>
+      <image:caption>Dương Đức Quân coi trọng đồng đội, chia sẻ tài liệu học lập trình cùng bạn sinh viên</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/z7384682665019_cb9ebe0108ec608b50942ff089ed2199.jpg</image:loc>
+      <image:title>Dương Đức Quân – Học hỏi không ngừng</image:title>
+      <image:caption>Dương Đức Quân (duongducquan) tự học chuyên sâu và thực hành code hàng ngày</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/z7384682680565_8f5d23844214bdc1e277690f5b749d9f.jpg</image:loc>
+      <image:title>Dương Đức Quân – Chặng đường phát triển bản thân</image:title>
+      <image:caption>Từng bước trưởng thành của Dương Đức Quân trên con đường lập trình Full Stack Web</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/z7384682689444_84a53c95875616643e9a432768f0cd2f.jpg</image:loc>
+      <image:title>Dương Đức Quân – Nụ cười rạng rỡ</image:title>
+      <image:caption>Khoảnh khắc vui vẻ của Dương Đức Quân (duongducquan) mang nguồn năng lượng tích cực</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/z7384682689754_3d750d5ae05988cf24a3d42cc7cae9c3.jpg</image:loc>
+      <image:title>Dương Đức Quân – Tinh thần gắn kết tập thể</image:title>
+      <image:caption>Dương Đức Quân là thành viên nhiệt tình trong hoạt động ngoại khóa suốt những năm đại học</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/z7384682693739_f2a8ba98dbcf1100090e7c335f612dcc.jpg</image:loc>
+      <image:title>Dương Đức Quân – Kỷ niệm thanh xuân tươi đẹp</image:title>
+      <image:caption>Dương Đức Quân (duongducquan) – nơi tình bạn và đam mê công nghệ cùng nhau lớn lên</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/hinhtngan/z7384688935919_973b5c2dc6faa806bfcafef78f39d85e.jpg</image:loc>
+      <image:title>Dương Đức Quân – Khoảnh khắc ấm áp DuongDucQuan</image:title>
+      <image:caption>Kỷ niệm ấm áp của Dương Đức Quân (DuongDucQuan) ghi dấu chặng đường phát triển sự nghiệp</image:caption>
     </image:image>
   </url>
 </urlset>
